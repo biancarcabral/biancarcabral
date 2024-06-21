@@ -2,7 +2,7 @@
 
  👨‍💻 Software Engineering Student at the UNOPAR (Brazil)
  
- 🔠 C1 Advanced English Level
+ 🔠 C2 Advanced English Level
  
  📚 Studying JavaScript, Java, HTML, CSS and others
  
