@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Bianca
 
- 👨‍💻 Software Engineering Student at the UNOPAR (Brazil)
+ 👨‍💻 Software Engineering Student at ANHANGUERA (Brazil)
  
  🔠 C2 Advanced English Level
  
