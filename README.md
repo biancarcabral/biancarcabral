@@ -4,7 +4,7 @@
  
  🔠 C2 Advanced English Level
  
- 📚 Studying JavaScript, Java, HTML, CSS and others
+ 📚 Studying SQL, PL/SQL, Python, Power BI, HTML, CSS, Java Script and others
  
  📫 How to reach me: 
 <div>
